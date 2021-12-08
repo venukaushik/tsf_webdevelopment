@@ -99,7 +99,7 @@ if(isset($_POST['submit']))
           <a class="nav-link active" aria-current="page" href="customers.php">Our Customers</a>
         </li>
          <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="https://www.xe.com/currencyconverter/convert/?Amount=20&From=INR&To=EUR">Currency Convertor </a>
+          <a class="nav-link active" aria-current="page" href="https://www.oanda.com/currency-converter/en/?from=EUR&to=USD&amount=1">Currency Convertor </a>
         </li>
         
 </div>
