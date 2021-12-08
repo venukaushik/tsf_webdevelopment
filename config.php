@@ -1,7 +1,7 @@
 <?php
 
 	$servername = "localhost";
-	$username = "Apka-apna";
+	$username = "id18045274_apkaapna";
 	$password = "Venukaushik@000";
 	$dbname = "id18045274_apkaapnabank";
 
