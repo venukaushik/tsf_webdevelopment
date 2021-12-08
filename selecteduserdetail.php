@@ -32,7 +32,7 @@ if(isset($_POST['submit']))
     {
         
         echo '<script type="text/javascript">';
-        echo ' alert("Bad Luck! Insufficient Balance")';  // showing an alert box.
+        echo ' alert("Bad Luck! You dont have enough money to make transaction successfull")';  // showing an alert box.
         echo '</script>';
     }
     
@@ -66,7 +66,7 @@ if(isset($_POST['submit']))
                 $query=mysqli_query($conn,$sql);
 
                 if($query){
-                     echo "<script> alert('Hurray! Transaction is Successful');
+                     echo "<script> alert('Hurray! Your Transaction is Successful');
                                      window.location='transactions.php';
                            </script>";
                     
