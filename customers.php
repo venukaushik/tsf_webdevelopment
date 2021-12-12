@@ -41,7 +41,7 @@
   </div>
 </nav>
 
-<body style="background-image : url(images/2.jpg)">
+<body style="background-image : url(images/1.jpg); background-size: cover">
 <?php
     include 'config.php';
     $sql = "SELECT * FROM users";
@@ -52,7 +52,7 @@
 
 
 <div class="container">
-        <h2 class="text-center pt-4" style="color : white;">Our Customers</h2>
+        <h2 class="text-center pt-4" style="color : white;"><u>Our Customers</u></h2>
         <br>
             <div class="row">
                 <div class="col">
@@ -60,10 +60,10 @@
                     <table class="table table-hover table-sm table-striped table-condensed table-bordered" style="border-color:white;">
                         <thead style="color : white;">
                             <tr>
-                            <th scope="col" class="text-center py-2">Account no.</th>
-                            <th scope="col" class="text-center py-2">Account holder name</th>
-                            <th scope="col" class="text-center py-2">E-Mail</th>
-                            <th scope="col" class="text-center py-2">Account Balance(in Rs.)</th>
+                            <th scope="col" class="text-center py-2"><u>Account no.</u></th>
+                            <th scope="col" class="text-center py-2"><u>Account holder name</u></th>
+                            <th scope="col" class="text-center py-2"><u>E-Mail</u></th>
+                            <th scope="col" class="text-center py-2"><u>Account Balance(in Rs.)</u></th>
                             
                             </tr>
                         </thead>
