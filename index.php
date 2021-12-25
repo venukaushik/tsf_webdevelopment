@@ -113,6 +113,20 @@
       necessarily represent the views of any organisation or any other individuals referenced or
       acknowledged within the website. Anyone may reproduce, distribute, adapt, translate the content on the website, without explicit permission, provided that the content is accompanied by an acknowledgement that Apka Apna Bank website is the source and that it is clearly indicated if changes were made to the original content.</p1>
  </div>
+ <style>
+.footer {
+   position: bottom ;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: blue;
+   color: white;
+   text-align: center;
+}
+</style>
+<div class="footer">
+  <p>&copy 2021  <b>Made By - Venu Kaushik</br> E-Mail Address: venukaushik31@gmail.com</b></p>
+</div>
  
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
