@@ -50,7 +50,7 @@ INSERT INTO `transaction` (`sno`, `sender`, `receiver`, `balance`, `datetime`) V
 (7, 'Arka yadav', 'rekha ', 3139, '2021-12-08 15:38:53'),
 (8, 'gaurav singh', 'simran kaur', 7561, '2021-12-08 15:13:13'),
 (9, 'rekha ', 'simran kaur', 1000, '2021-12-08 16:04:54'),
-(10, 'shambu gaur', 'Arka yadav', 3165, '2021-12-08 16:22:45');
+(10, 'Siddhu singh', 'Arka yadav', 2000, '2021-12-10 19:05:32');
 
 -- --------------------------------------------------------
 
